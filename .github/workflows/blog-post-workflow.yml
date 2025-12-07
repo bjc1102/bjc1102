@@ -14,4 +14,4 @@ jobs:
           feed_list: "https://blog.aibox.today/rss/"
           max_post_count: 5
           date_format: "mmm d, yyyy"
-          template: "- [$title]($url) - $date"
+          template: "- [$title]($url) - $date$newline"
