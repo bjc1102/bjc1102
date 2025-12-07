@@ -16,7 +16,7 @@ Solutions Architect | GenAI & Cloud Architecture
 <a href="https://www.credly.com/badges/c08194d6-398e-46bb-aebb-efff68bd0897"><img src="https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="80" alt="CKA"/></a>
 
 ### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->[Security] VirusTotal - Nov 23, 2025[Security] 보안관제 - Nov 8, 2025[Security] 악성코드 탐지 지표와 유형 - Oct 26, 2025[Security] Firewall, DDoS, IDS 와 IPS 의 특징 및 차이점 - Oct 11, 2025[Community] Cloud Native Korea Community Day 2025 후기 - Sep 20, 2025<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [[Security] VirusTotal](https://blog.aibox.today/security-virustotal/) - Nov 23, 2025- [[Security] 보안관제](https://blog.aibox.today/security-operation-service/) - Nov 8, 2025- [[Security] 악성코드 탐지 지표와 유형](https://blog.aibox.today/malware-metric/) - Oct 26, 2025- [[Security] Firewall, DDoS, IDS 와 IPS 의 특징 및 차이점](https://blog.aibox.today/68ea196f68a54000019151f3/) - Oct 11, 2025- [[Community] Cloud Native Korea Community Day 2025 후기](https://blog.aibox.today/community-kcd-seoul-2025-hugi/) - Sep 20, 2025<!-- BLOG-POST-LIST:END -->
 
 ---
 
