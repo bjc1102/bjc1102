@@ -17,6 +17,11 @@ Solutions Architect | GenAI & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Security] VirusTotal](https://blog.aibox.today/security-virustotal/)
+- [[Security] 보안관제](https://blog.aibox.today/security-operation-service/)
+- [[Security] 악성코드 탐지 지표와 유형](https://blog.aibox.today/malware-metric/)
+- [[Security] Firewall, DDoS, IDS 와 IPS 의 특징 및 차이점](https://blog.aibox.today/68ea196f68a54000019151f3/)
+- [[Community] Cloud Native Korea Community Day 2025 후기](https://blog.aibox.today/community-kcd-seoul-2025-hugi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
