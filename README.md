@@ -17,11 +17,11 @@ Solutions Architect | GenAI & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AI] vLLM 특징 및 구성 정리](https://blog.aibox.today/ai-vllm-teugjing-mic-guseong-jeongri/) - Dec 17, 2025
 - [[Security] 정적분석과 동적분석](https://blog.aibox.today/security-jeongjeogbunseoggwa-dongjeogbunseog/) - Dec 14, 2025
 - [[Security] VirusTotal](https://blog.aibox.today/security-virustotal/) - Nov 23, 2025
 - [[Security] 보안관제](https://blog.aibox.today/security-operation-service/) - Nov 8, 2025
 - [[Security] 악성코드 탐지 지표와 유형](https://blog.aibox.today/malware-metric/) - Oct 26, 2025
-- [[Security] Firewall, DDoS, IDS 와 IPS 의 특징 및 차이점](https://blog.aibox.today/68ea196f68a54000019151f3/) - Oct 11, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
