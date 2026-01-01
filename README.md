@@ -17,11 +17,11 @@ Solutions Architect | GenAI & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AWS] DynamoDB 스키마 설계 가이드](https://blog.aibox.today/dynamodb-schema-design-with-access-patterns/) - Jan 1, 2026
 - [[AI/ML] 다중 선형 회귀](https://blog.aibox.today/multivariable-linear-regression-pytorch/) - Dec 28, 2025
 - [[AI/ML] 선형 회귀와 자동 미분](https://blog.aibox.today/linear-regression/) - Dec 27, 2025
 - [[Security] 샘플 분석 환경 구성](https://blog.aibox.today/security-saempeul-bunseog-hwangyeong-guseong/) - Dec 27, 2025
 - [[AI] vLLM 특징 및 구성 정리](https://blog.aibox.today/ai-vllm-teugjing-mic-guseong-jeongri/) - Dec 17, 2025
-- [[Security] 정적분석과 동적분석](https://blog.aibox.today/security-jeongjeogbunseoggwa-dongjeogbunseog/) - Dec 14, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
