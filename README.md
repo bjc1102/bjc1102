@@ -17,11 +17,11 @@ Solutions Architect | GenAI & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CKS] Docker Securing the Daemon](https://blog.aibox.today/docker-daemon-security-with-mtls-authentication/) - Jan 2, 2026
+- [[CKS] Docker Service Configuration](https://blog.aibox.today/docker-daemon-configuration-security/) - Jan 2, 2026
+- [[AI/ML] 미니 배치와 데이터 로더](https://blog.aibox.today/pytorch-mini-batch-learning-with-dataloader/) - Jan 2, 2026
 - [[AI/ML] nn.Module과 클래스로 구현하기](https://blog.aibox.today/implementing-linear-regression-with-pytorch/) - Jan 1, 2026
 - [[AWS] DynamoDB 스키마 설계 가이드](https://blog.aibox.today/dynamodb-schema-design-with-access-patterns/) - Jan 1, 2026
-- [[AI/ML] 다중 선형 회귀](https://blog.aibox.today/multivariable-linear-regression-pytorch/) - Dec 28, 2025
-- [[AI/ML] 선형 회귀와 자동 미분](https://blog.aibox.today/linear-regression/) - Dec 27, 2025
-- [[Security] 샘플 분석 환경 구성](https://blog.aibox.today/security-saempeul-bunseog-hwangyeong-guseong/) - Dec 27, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
