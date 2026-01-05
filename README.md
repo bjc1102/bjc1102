@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CKS] Minimize Microservice Vulnerabilities &lpar;1&rpar;](https://blog.aibox.today/kubernetes-security-context-admission-controllers-cks/) - Jan 5, 2026
 - [[CKS] Kubernetes 시스템을 강화하는 방법&lpar;3&rpar;](https://blog.aibox.today/kubernetes-apparmor-security-guide/) - Jan 4, 2026
 - [[CKS] Kubernetes 시스템을 강화하는 방법&lpar;2&rpar;](https://blog.aibox.today/kubernetes-seccomp-system-call-filtering-cks/) - Jan 4, 2026
 - [[CKS] Kubernetes 시스템을 강화하는 방법&lpar;1&rpar;](https://blog.aibox.today/kubernetes-security-least-privilege-principle-cks/) - Jan 4, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[AI/ML] 미니 배치와 데이터 로더](https://blog.aibox.today/pytorch-mini-batch-learning-with-dataloader/) - Jan 2, 2026
 - [[AI/ML] nn.Module과 클래스로 구현하기](https://blog.aibox.today/implementing-linear-regression-with-pytorch/) - Jan 1, 2026
 - [[AWS] DynamoDB 스키마 설계 가이드](https://blog.aibox.today/dynamodb-schema-design-with-access-patterns/) - Jan 1, 2026
-- [[AI/ML] 다중 선형 회귀](https://blog.aibox.today/multivariable-linear-regression-pytorch/) - Dec 28, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
