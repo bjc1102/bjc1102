@@ -17,6 +17,8 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CKS] Minimize Microservice Vulnerabilities &lpar;2&rpar; - Validating and Mutating Admission Controllers](https://blog.aibox.today/kubernetes-admission-controllers-validating-mutating-webhooks/) - Jan 6, 2026
+- [[AWS] ECS OIDC Connect와 Managed Instance 테스트](https://blog.aibox.today/aws-ecs-oidc-connectwa-managed-instance-teseuteu/) - Jan 6, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;1&rpar;](https://blog.aibox.today/kubernetes-security-context-admission-controllers-cks/) - Jan 5, 2026
 - [[CKS] Kubernetes 시스템을 강화하는 방법&lpar;3&rpar;](https://blog.aibox.today/kubernetes-apparmor-security-guide/) - Jan 4, 2026
 - [[CKS] Kubernetes 시스템을 강화하는 방법&lpar;2&rpar;](https://blog.aibox.today/kubernetes-seccomp-system-call-filtering-cks/) - Jan 4, 2026
@@ -25,8 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[CKS] Docker Securing the Daemon](https://blog.aibox.today/docker-daemon-security-with-mtls-authentication/) - Jan 2, 2026
 - [[CKS] Docker Service Configuration](https://blog.aibox.today/docker-daemon-configuration-security/) - Jan 2, 2026
 - [[AI/ML] 미니 배치와 데이터 로더](https://blog.aibox.today/pytorch-mini-batch-learning-with-dataloader/) - Jan 2, 2026
-- [[AI/ML] nn.Module과 클래스로 구현하기](https://blog.aibox.today/implementing-linear-regression-with-pytorch/) - Jan 1, 2026
-- [[AWS] DynamoDB 스키마 설계 가이드](https://blog.aibox.today/dynamodb-schema-design-with-access-patterns/) - Jan 1, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
