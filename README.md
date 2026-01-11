@@ -18,7 +18,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[CKS] Demo Encrypting Secret Data at Rest](https://blog.aibox.today/securing-kubernetes-secrets-with-etcd-encryption/) - Jan 9, 2026
-- [[CKS] Minimize Microservice Vulnerabilities &lpar;4&rpar; - Manage Kubernetes secrets](https://blog.aibox.today/kubernetes-secrets-management-guide/) - Jan 8, 2026
+- [[CKS] Minimize Microservice Vulnerabilities &lpar;5&rpar; - Manage Kubernetes secrets](https://blog.aibox.today/kubernetes-secrets-management-guide/) - Jan 8, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;4&rpar; - OpenPolicy Agent&lpar;OPA&rpar;](https://blog.aibox.today/open-policy-agent-kubernetes-security/) - Jan 7, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;3&rpar; - Pod Security](https://blog.aibox.today/kubernetes-pod-security-policies-admission-standards-cks-guide/) - Jan 7, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;2&rpar; - Validating and Mutating Admission Controllers](https://blog.aibox.today/kubernetes-admission-controllers-validating-mutating-webhooks/) - Jan 6, 2026
