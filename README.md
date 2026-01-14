@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CKS] Minimize Microservice Vulnerabilities &lpar;7&rpar; - Implementing Resource Quotas in Kubernetes](https://blog.aibox.today/kubernetes-cks-mtls-multi-tenancy-security/) - Jan 14, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;6&rpar; - Container Sandboxing](https://blog.aibox.today/kubernetes-security-container-isolation-techniques/) - Jan 11, 2026
 - [[CKS] Demo Encrypting Secret Data at Rest](https://blog.aibox.today/securing-kubernetes-secrets-with-etcd-encryption/) - Jan 9, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;5&rpar; - Manage Kubernetes secrets](https://blog.aibox.today/kubernetes-secrets-management-guide/) - Jan 8, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[AWS] ECS OIDC Connect와 Managed Instance 테스트](https://blog.aibox.today/aws-ecs-oidc-connectwa-managed-instance-teseuteu/) - Jan 6, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;1&rpar;](https://blog.aibox.today/kubernetes-security-context-admission-controllers-cks/) - Jan 5, 2026
 - [[CKS] Kubernetes 시스템을 강화하는 방법&lpar;3&rpar;](https://blog.aibox.today/kubernetes-apparmor-security-guide/) - Jan 4, 2026
-- [[CKS] Kubernetes 시스템을 강화하는 방법&lpar;2&rpar;](https://blog.aibox.today/kubernetes-seccomp-system-call-filtering-cks/) - Jan 4, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
