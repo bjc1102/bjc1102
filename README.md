@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Security] 악성코드 분석을 위한 정적, 동적 분석 도구 정리](https://blog.aibox.today/malware-analysis-static-dynamic-tools/) - Jan 17, 2026
 - [[CKS] 멀티 테넌트의 DNS 구성](https://blog.aibox.today/kubernetes-dns-multi-tenancy-security-with-coredns/) - Jan 15, 2026
 - [[CKS] API 우선 순위와 공정성 &amp; Pod 순위와 선점, QoS](https://blog.aibox.today/kubernetes-api-priority-pod-priority-qos-management/) - Jan 15, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;7&rpar; - Implementing Resource Quotas in Kubernetes](https://blog.aibox.today/kubernetes-cks-mtls-multi-tenancy-security/) - Jan 14, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;4&rpar; - OpenPolicy Agent&lpar;OPA&rpar;](https://blog.aibox.today/open-policy-agent-kubernetes-security/) - Jan 7, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;3&rpar; - Pod Security](https://blog.aibox.today/kubernetes-pod-security-policies-admission-standards-cks-guide/) - Jan 7, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;2&rpar; - Validating and Mutating Admission Controllers](https://blog.aibox.today/kubernetes-admission-controllers-validating-mutating-webhooks/) - Jan 6, 2026
-- [[AWS] ECS OIDC Connect와 Managed Instance 테스트](https://blog.aibox.today/aws-ecs-oidc-connectwa-managed-instance-teseuteu/) - Jan 6, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
