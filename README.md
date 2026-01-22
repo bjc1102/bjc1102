@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CKS] Supply Chain Security &lpar;3&rpar;](https://blog.aibox.today/kubernetes-image-security-best-practices/) - Jan 22, 2026
 - [[CKS] Supply Chain Security &lpar;2&rpar;](https://blog.aibox.today/kubelinter-kubernetes-manifest-security-validation/) - Jan 20, 2026
 - [[CKS] Supply Chain Security &lpar;1&rpar;](https://blog.aibox.today/kubernetes-supply-chain-security-with-sbom/) - Jan 18, 2026
 - [[CKS] Pod to Pod Encryption &lpar;Cilium&rpar;](https://blog.aibox.today/kubernetes-pod-encryption-with-cilium/) - Jan 17, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;7&rpar; - Implementing Resource Quotas in Kubernetes](https://blog.aibox.today/kubernetes-cks-mtls-multi-tenancy-security/) - Jan 14, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;6&rpar; - Container Sandboxing](https://blog.aibox.today/kubernetes-security-container-isolation-techniques/) - Jan 11, 2026
 - [[CKS] Demo Encrypting Secret Data at Rest](https://blog.aibox.today/securing-kubernetes-secrets-with-etcd-encryption/) - Jan 9, 2026
-- [[CKS] Minimize Microservice Vulnerabilities &lpar;5&rpar; - Manage Kubernetes secrets](https://blog.aibox.today/kubernetes-secrets-management-guide/) - Jan 8, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
