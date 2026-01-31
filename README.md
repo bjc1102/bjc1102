@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AI/ML] Qwen3 VL 8B LoRA Fine Tuning 가이드](https://blog.aibox.today/fine-tuning-qwen3-vl-with-lora-for-crack-detection/) - Jan 31, 2026
 - [[CKS] Mutable vs Immutable Infrastructure &amp; Audit Log](https://blog.aibox.today/cks-mutable-vs-immutable-infrastructure-audit-log/) - Jan 26, 2026
 - [[CKS] Supply Chain Security &lpar;3&rpar;](https://blog.aibox.today/kubernetes-image-security-best-practices/) - Jan 22, 2026
 - [[CKS] Supply Chain Security &lpar;2&rpar;](https://blog.aibox.today/kubelinter-kubernetes-manifest-security-validation/) - Jan 20, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[CKS] 멀티 테넌트의 DNS 구성](https://blog.aibox.today/kubernetes-dns-multi-tenancy-security-with-coredns/) - Jan 15, 2026
 - [[CKS] API 우선 순위와 공정성 &amp; Pod 순위와 선점, QoS](https://blog.aibox.today/kubernetes-api-priority-pod-priority-qos-management/) - Jan 15, 2026
 - [[CKS] Minimize Microservice Vulnerabilities &lpar;7&rpar; - Implementing Resource Quotas in Kubernetes](https://blog.aibox.today/kubernetes-cks-mtls-multi-tenancy-security/) - Jan 14, 2026
-- [[CKS] Minimize Microservice Vulnerabilities &lpar;6&rpar; - Container Sandboxing](https://blog.aibox.today/kubernetes-security-container-isolation-techniques/) - Jan 11, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
