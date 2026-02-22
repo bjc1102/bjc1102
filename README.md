@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Security] 악성코드 샘플 분석 2차](https://blog.aibox.today/malware-analysis-unpacking-wiseman-trojan/) - Feb 22, 2026
 - [[Security] 악성코드 샘플 분석 1차](https://blog.aibox.today/security-agseongkodeu-saempeul-bunseog-1ca/) - Feb 9, 2026
 - [[AI/ML] LLM as Judge를 통한 환각 제어 방법](https://blog.aibox.today/llm-as-judge-faithfulness-evaluation-bias-mitigation/) - Feb 4, 2026
 - [[AI/ML] Qwen3-VL-4B 강화 학습&lpar;RL&rpar; 기반 파인튜닝&lpar;Unsloth&rpar; 가이드](https://blog.aibox.today/reinforcement-learning-fine-tuning-qwen3-vl-with-grpo/) - Feb 3, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[CKS] Supply Chain Security &lpar;2&rpar;](https://blog.aibox.today/kubelinter-kubernetes-manifest-security-validation/) - Jan 20, 2026
 - [[CKS] Supply Chain Security &lpar;1&rpar;](https://blog.aibox.today/kubernetes-supply-chain-security-with-sbom/) - Jan 18, 2026
 - [[CKS] Pod to Pod Encryption &lpar;Cilium&rpar;](https://blog.aibox.today/kubernetes-pod-encryption-with-cilium/) - Jan 17, 2026
-- [[Security] 악성코드 분석을 위한 정적, 동적 분석 도구 정리](https://blog.aibox.today/malware-analysis-static-dynamic-tools/) - Jan 17, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
