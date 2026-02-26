@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[LLM] 한국어 토큰 사용량과 모델 간 토큰 사용량 차이 정리](https://blog.aibox.today/claude-gemini-korean-tokenization-cost-analysis/) - Feb 26, 2026
 - [[Security] 악성코드 샘플 분석 2차](https://blog.aibox.today/malware-analysis-unpacking-wiseman-trojan/) - Feb 22, 2026
 - [[Security] 악성코드 샘플 분석 1차](https://blog.aibox.today/security-agseongkodeu-saempeul-bunseog-1ca/) - Feb 9, 2026
 - [[AI/ML] LLM as Judge를 통한 환각 제어 방법](https://blog.aibox.today/llm-as-judge-faithfulness-evaluation-bias-mitigation/) - Feb 4, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[CKS] Supply Chain Security &lpar;3&rpar;](https://blog.aibox.today/kubernetes-image-security-best-practices/) - Jan 22, 2026
 - [[CKS] Supply Chain Security &lpar;2&rpar;](https://blog.aibox.today/kubelinter-kubernetes-manifest-security-validation/) - Jan 20, 2026
 - [[CKS] Supply Chain Security &lpar;1&rpar;](https://blog.aibox.today/kubernetes-supply-chain-security-with-sbom/) - Jan 18, 2026
-- [[CKS] Pod to Pod Encryption &lpar;Cilium&rpar;](https://blog.aibox.today/kubernetes-pod-encryption-with-cilium/) - Jan 17, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
