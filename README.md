@@ -17,16 +17,16 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Security] 악성코드 샘플 분석 2차 &lpar;동적 분석&rpar;](https://blog.aibox.today/malware-dynamic-analysis-process-monitoring/) - Mar 7, 2026
 - [[LLM] VLM으로 표를 정확히 추출하기](https://blog.aibox.today/bedrock-qwen3-vl-pdf-table-extraction-prompt-optimization/) - Mar 1, 2026
 - [[LLM] 한국어 토큰 사용량과 모델 간 토큰 사용량 차이 정리](https://blog.aibox.today/claude-gemini-korean-tokenization-cost-analysis/) - Feb 26, 2026
-- [[Security] 악성코드 샘플 분석 2차](https://blog.aibox.today/malware-analysis-unpacking-wiseman-trojan/) - Feb 22, 2026
+- [[Security] 악성코드 샘플 분석 2차 &lpar;기초 분석, 정적 분석&rpar;](https://blog.aibox.today/malware-analysis-unpacking-wiseman-trojan/) - Feb 22, 2026
 - [[Security] 악성코드 샘플 분석 1차](https://blog.aibox.today/security-agseongkodeu-saempeul-bunseog-1ca/) - Feb 9, 2026
 - [[AI/ML] LLM as Judge를 통한 환각 제어 방법](https://blog.aibox.today/llm-as-judge-faithfulness-evaluation-bias-mitigation/) - Feb 4, 2026
 - [[AI/ML] Qwen3-VL-4B 강화 학습&lpar;RL&rpar; 기반 파인튜닝&lpar;Unsloth&rpar; 가이드](https://blog.aibox.today/reinforcement-learning-fine-tuning-qwen3-vl-with-grpo/) - Feb 3, 2026
 - [[AI/ML] Qwen3 VL 8B SFT LoRA Fine Tuning 가이드](https://blog.aibox.today/fine-tuning-qwen3-vl-with-lora-for-crack-detection/) - Jan 31, 2026
 - [[CKS] Mutable vs Immutable Infrastructure &amp; Audit Log](https://blog.aibox.today/cks-mutable-vs-immutable-infrastructure-audit-log/) - Jan 26, 2026
 - [[CKS] Supply Chain Security &lpar;3&rpar;](https://blog.aibox.today/kubernetes-image-security-best-practices/) - Jan 22, 2026
-- [[CKS] Supply Chain Security &lpar;2&rpar;](https://blog.aibox.today/kubelinter-kubernetes-manifest-security-validation/) - Jan 20, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
