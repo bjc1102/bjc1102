@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AI Agent] 1주차 리뷰](https://blog.aibox.today/understanding-llm-fundamentals-prompt-engineering-and-structured-outputs/) - Mar 20, 2026
 - [[AI Agent] AI Agent OT 정리](https://blog.aibox.today/ai-agent-ot/) - Mar 14, 2026
 - [[Security] 악성코드 샘플 분석 2차 &lpar;동적 분석&rpar;](https://blog.aibox.today/malware-dynamic-analysis-process-monitoring/) - Mar 7, 2026
 - [[LLM] VLM으로 표를 정확히 추출하기](https://blog.aibox.today/bedrock-qwen3-vl-pdf-table-extraction-prompt-optimization/) - Mar 1, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[AI/ML] LLM as Judge를 통한 환각 제어 방법](https://blog.aibox.today/llm-as-judge-faithfulness-evaluation-bias-mitigation/) - Feb 4, 2026
 - [[AI/ML] Qwen3-VL-4B 강화 학습&lpar;RL&rpar; 기반 파인튜닝&lpar;Unsloth&rpar; 가이드](https://blog.aibox.today/reinforcement-learning-fine-tuning-qwen3-vl-with-grpo/) - Feb 3, 2026
 - [[AI/ML] Qwen3 VL 8B SFT LoRA Fine Tuning 가이드](https://blog.aibox.today/fine-tuning-qwen3-vl-with-lora-for-crack-detection/) - Jan 31, 2026
-- [[CKS] Mutable vs Immutable Infrastructure &amp; Audit Log](https://blog.aibox.today/cks-mutable-vs-immutable-infrastructure-audit-log/) - Jan 26, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
