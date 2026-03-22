@@ -17,7 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[AI Agent] 1주차 리뷰](https://blog.aibox.today/understanding-llm-fundamentals-prompt-engineering-and-structured-outputs/) - Mar 20, 2026
+- [[AI Agent 과정 1기] LLM 기초 정리](https://blog.aibox.today/understanding-llm-fundamentals-prompt-engineering-and-structured-outputs/) - Mar 20, 2026
 - [[AI Agent] AI Agent OT 정리](https://blog.aibox.today/ai-agent-ot/) - Mar 14, 2026
 - [[Security] 악성코드 샘플 분석 2차 &lpar;동적 분석&rpar;](https://blog.aibox.today/malware-dynamic-analysis-process-monitoring/) - Mar 7, 2026
 - [[LLM] VLM으로 표를 정확히 추출하기](https://blog.aibox.today/bedrock-qwen3-vl-pdf-table-extraction-prompt-optimization/) - Mar 1, 2026
