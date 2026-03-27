@@ -17,6 +17,8 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AI Agent] RAG overview&lpar;3주차&rpar;](https://blog.aibox.today/rag-retrieval-augmented-generation-guide/) - Mar 27, 2026
+- [[AI Agent] Prompt Engineering 리뷰&lpar;2주차&rpar;](https://blog.aibox.today/prompt-engineering-techniques-llm-performance-improvement/) - Mar 27, 2026
 - [[AI Agent 과정 1기] LLM 기초 정리](https://blog.aibox.today/understanding-llm-fundamentals-prompt-engineering-and-structured-outputs/) - Mar 20, 2026
 - [[AI Agent] AI Agent OT 정리](https://blog.aibox.today/ai-agent-ot/) - Mar 14, 2026
 - [[Security] 악성코드 샘플 분석 2차 &lpar;동적 분석&rpar;](https://blog.aibox.today/malware-dynamic-analysis-process-monitoring/) - Mar 7, 2026
@@ -25,8 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[Security] 악성코드 샘플 분석 2차 &lpar;기초 분석, 정적 분석&rpar;](https://blog.aibox.today/malware-analysis-unpacking-wiseman-trojan/) - Feb 22, 2026
 - [[Security] 악성코드 샘플 분석 1차](https://blog.aibox.today/security-agseongkodeu-saempeul-bunseog-1ca/) - Feb 9, 2026
 - [[AI/ML] LLM as Judge를 통한 환각 제어 방법](https://blog.aibox.today/llm-as-judge-faithfulness-evaluation-bias-mitigation/) - Feb 4, 2026
-- [[AI/ML] Qwen3-VL-4B 강화 학습&lpar;RL&rpar; 기반 파인튜닝&lpar;Unsloth&rpar; 가이드](https://blog.aibox.today/reinforcement-learning-fine-tuning-qwen3-vl-with-grpo/) - Feb 3, 2026
-- [[AI/ML] Qwen3 VL 8B SFT LoRA Fine Tuning 가이드](https://blog.aibox.today/fine-tuning-qwen3-vl-with-lora-for-crack-detection/) - Jan 31, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
