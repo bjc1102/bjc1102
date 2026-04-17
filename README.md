@@ -17,6 +17,8 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AI Agent] LLM Evaluation Preview &lpar;5주차&rpar;](https://blog.aibox.today/evaluating-rag-systems-golden-dataset-and-ragas-metrics/) - Apr 17, 2026
+- [[AI Agent] Advanced RAG 리뷰&lpar;4주차&rpar;](https://blog.aibox.today/advanced-rag-review-week-4-hybrid-search-reranking/) - Apr 17, 2026
 - [[AI Agent] Advanced RAG 개요&lpar;4주차&rpar;](https://blog.aibox.today/advanced-rag-improving-retrieval-augmented-generation-performance/) - Apr 4, 2026
 - [[AI Agent] RAG 리뷰&lpar;3주차&rpar;](https://blog.aibox.today/ai-agent-rag-ribyu-3juca/) - Apr 4, 2026
 - [[AI Agent] RAG overview&lpar;3주차&rpar;](https://blog.aibox.today/rag-retrieval-augmented-generation-guide/) - Mar 27, 2026
@@ -25,8 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[AI Agent] AI Agent OT 정리](https://blog.aibox.today/ai-agent-ot/) - Mar 14, 2026
 - [[Security] 악성코드 샘플 분석 2차 &lpar;동적 분석&rpar;](https://blog.aibox.today/malware-dynamic-analysis-process-monitoring/) - Mar 7, 2026
 - [[LLM] VLM으로 표를 정확히 추출하기](https://blog.aibox.today/bedrock-qwen3-vl-pdf-table-extraction-prompt-optimization/) - Mar 1, 2026
-- [[LLM] 한국어 토큰 사용량과 모델 간 토큰 사용량 차이 정리](https://blog.aibox.today/claude-gemini-korean-tokenization-cost-analysis/) - Feb 26, 2026
-- [[Security] 악성코드 샘플 분석 2차 &lpar;기초 분석, 정적 분석&rpar;](https://blog.aibox.today/malware-analysis-unpacking-wiseman-trojan/) - Feb 22, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
