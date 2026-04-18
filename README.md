@@ -19,11 +19,11 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 <!-- BLOG-POST-LIST:START -->
 - [[AI Agent] LLM Evaluation Preview &lpar;5주차&rpar;](https://blog.aibox.today/evaluating-rag-systems-golden-dataset-and-ragas-metrics/) - Apr 17, 2026
 - [[AI Agent] Advanced RAG 리뷰&lpar;4주차&rpar;](https://blog.aibox.today/advanced-rag-review-week-4-hybrid-search-reranking/) - Apr 17, 2026
-- [[AI Agent] Advanced RAG 개요&lpar;4주차&rpar;](https://blog.aibox.today/advanced-rag-improving-retrieval-augmented-generation-performance/) - Apr 4, 2026
+- [[AI Agent] Advanced RAG Preview&lpar;4주차&rpar;](https://blog.aibox.today/advanced-rag-improving-retrieval-augmented-generation-performance/) - Apr 4, 2026
 - [[AI Agent] RAG 리뷰&lpar;3주차&rpar;](https://blog.aibox.today/ai-agent-rag-ribyu-3juca/) - Apr 4, 2026
-- [[AI Agent] RAG overview&lpar;3주차&rpar;](https://blog.aibox.today/rag-retrieval-augmented-generation-guide/) - Mar 27, 2026
+- [[AI Agent] RAG Preview&lpar;3주차&rpar;](https://blog.aibox.today/rag-retrieval-augmented-generation-guide/) - Mar 27, 2026
 - [[AI Agent] Prompt Engineering 리뷰&lpar;2주차&rpar;](https://blog.aibox.today/prompt-engineering-techniques-llm-performance-improvement/) - Mar 27, 2026
-- [[AI Agent 과정 1기] LLM 기초 정리](https://blog.aibox.today/understanding-llm-fundamentals-prompt-engineering-and-structured-outputs/) - Mar 20, 2026
+- [[AI Agent] LLM 기초 정리](https://blog.aibox.today/understanding-llm-fundamentals-prompt-engineering-and-structured-outputs/) - Mar 20, 2026
 - [[AI Agent] AI Agent OT 정리](https://blog.aibox.today/ai-agent-ot/) - Mar 14, 2026
 - [[Security] 악성코드 샘플 분석 2차 &lpar;동적 분석&rpar;](https://blog.aibox.today/malware-dynamic-analysis-process-monitoring/) - Mar 7, 2026
 - [[LLM] VLM으로 표를 정확히 추출하기](https://blog.aibox.today/bedrock-qwen3-vl-pdf-table-extraction-prompt-optimization/) - Mar 1, 2026
