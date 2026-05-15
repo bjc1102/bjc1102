@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AI Agent] Cost Optimization Preview &lpar;9주차&rpar;](https://blog.aibox.today/llm-cost-optimization-ai-agent/) - May 15, 2026
 - [[AI/ML] 어휘와 토크나이저](https://blog.aibox.today/llm-tokenizer-vocabulary/) - May 13, 2026
 - [[AI Agent] LLM Observability Preview &lpar;8주차&rpar;](https://blog.aibox.today/ai-agent-llm-observability/) - May 8, 2026
 - [[AI Agent] Multi Agent Preview &lpar;7주차&rpar;](https://blog.aibox.today/agentic-ai-design-patterns/) - May 1, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[AI Agent] LLM Evaluation Preview &lpar;5주차&rpar;](https://blog.aibox.today/evaluating-rag-systems-golden-dataset-and-ragas-metrics/) - Apr 17, 2026
 - [[AI Agent] Advanced RAG 리뷰&lpar;4주차&rpar;](https://blog.aibox.today/advanced-rag-review-week-4-hybrid-search-reranking/) - Apr 17, 2026
 - [[AI Agent] Advanced RAG Preview&lpar;4주차&rpar;](https://blog.aibox.today/advanced-rag-improving-retrieval-augmented-generation-performance/) - Apr 4, 2026
-- [[AI Agent] RAG 리뷰&lpar;3주차&rpar;](https://blog.aibox.today/ai-agent-rag-ribyu-3juca/) - Apr 4, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
