@@ -17,7 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[AI Agent] LLM Training Preview &lpar;11주차&rpar;](https://blog.aibox.today/ai-agent-llm-training-preview-11juca/) - Jun 5, 2026
+- [[AI Agent] LLM Training Preview &lpar;11주차&rpar;](https://blog.aibox.today/ai-agent-llm-fine-tuning-preview/) - Jun 5, 2026
 - [[AI Agent] AI Security Preview &lpar;10주차&rpar;](https://blog.aibox.today/ai-system-security-llmops/) - May 28, 2026
 - [[AWS] AWS Summit 2026 Speaker 후기](https://blog.aibox.today/aws-summit-2026-speaker-retrospective/) - May 25, 2026
 - [[AI Agent] Cost Optimization Preview &lpar;9주차&rpar;](https://blog.aibox.today/llm-cost-optimization-ai-agent/) - May 15, 2026
