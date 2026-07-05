@@ -17,20 +17,20 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[AI Agent] AI Engineering Review &lpar;12주차&rpar;](https://blog.aibox.today/ai-agent-12-week-final-review/) - Jun 20, 2026
-- [[AI Agent] LLM Training Preview &lpar;11주차&rpar;](https://blog.aibox.today/ai-agent-llm-fine-tuning-preview/) - Jun 5, 2026
-- [[AI Agent] AI Security Preview &lpar;10주차&rpar;](https://blog.aibox.today/ai-system-security-llmops/) - May 28, 2026
-- [[AWS] AWS Summit 2026 Speaker 후기](https://blog.aibox.today/aws-summit-2026-speaker-retrospective/) - May 25, 2026
-- [[AI Agent] Cost Optimization Preview &lpar;9주차&rpar;](https://blog.aibox.today/llm-cost-optimization-ai-agent/) - May 15, 2026
-- [[AI/ML] 어휘와 토크나이저](https://blog.aibox.today/llm-tokenizer-vocabulary/) - May 13, 2026
-- [[AI Agent] LLM Observability Preview &lpar;8주차&rpar;](https://blog.aibox.today/ai-agent-llm-observability/) - May 8, 2026
-- [[AI Agent] Multi Agent Preview &lpar;7주차&rpar;](https://blog.aibox.today/agentic-ai-design-patterns/) - May 1, 2026
-- [[AI Agent] AI Agent Review&lpar;6주차&rpar;](https://blog.aibox.today/ai-agent-design-axes-review/) - May 1, 2026
-- [[AI Agent] AI Agent Preview &lpar;6주차&rpar;](https://blog.aibox.today/understanding-ai-agents-fundamentals-and-design/) - Apr 24, 2026
+- [[AI Agent] AI Engineering Review &lpar;12주차&rpar;](https://aibox.today/ai-agent-12-week-final-review/) - Jun 20, 2026
+- [[AI Agent] LLM Training Preview &lpar;11주차&rpar;](https://aibox.today/ai-agent-llm-fine-tuning-preview/) - Jun 5, 2026
+- [[AI Agent] AI Security Preview &lpar;10주차&rpar;](https://aibox.today/ai-system-security-llmops/) - May 28, 2026
+- [[AWS] AWS Summit 2026 Speaker 후기](https://aibox.today/aws-summit-2026-speaker-retrospective/) - May 25, 2026
+- [[AI Agent] Cost Optimization Preview &lpar;9주차&rpar;](https://aibox.today/llm-cost-optimization-ai-agent/) - May 15, 2026
+- [[AI/ML] 어휘와 토크나이저](https://aibox.today/llm-tokenizer-vocabulary/) - May 13, 2026
+- [[AI Agent] LLM Observability Preview &lpar;8주차&rpar;](https://aibox.today/ai-agent-llm-observability/) - May 8, 2026
+- [[AI Agent] Multi Agent Preview &lpar;7주차&rpar;](https://aibox.today/agentic-ai-design-patterns/) - May 1, 2026
+- [[AI Agent] AI Agent Review&lpar;6주차&rpar;](https://aibox.today/ai-agent-design-axes-review/) - May 1, 2026
+- [[AI Agent] AI Agent Preview &lpar;6주차&rpar;](https://aibox.today/understanding-ai-agents-fundamentals-and-design/) - Apr 24, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beejchoi/)
-[![Blog](https://img.shields.io/badge/Blog-초집중-FF5722?style=flat-square)](https://blog.aibox.today)
+[![Blog](https://img.shields.io/badge/Blog-초집중-FF5722?style=flat-square)](https://aibox.today)
