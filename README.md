@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[논문 리뷰] TMax로 이해하는 Terminal-Agent RL과 DPPO](https://aibox.today/tmax-dppo-terminal-agent/) - Jul 6, 2026
 - [[논문 리뷰] Mid-training 이해하기](https://aibox.today/mid-training-terminal-model/) - Jul 2, 2026
 - [[AI Agent] AI Engineering Review &lpar;12주차&rpar;](https://aibox.today/ai-agent-12-week-final-review/) - Jun 20, 2026
 - [[AI Agent] LLM Training Preview &lpar;11주차&rpar;](https://aibox.today/ai-agent-llm-fine-tuning-preview/) - Jun 5, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[AI/ML] 어휘와 토크나이저](https://aibox.today/llm-tokenizer-vocabulary/) - May 13, 2026
 - [[AI Agent] LLM Observability Preview &lpar;8주차&rpar;](https://aibox.today/ai-agent-llm-observability/) - May 8, 2026
 - [[AI Agent] Multi Agent Preview &lpar;7주차&rpar;](https://aibox.today/agentic-ai-design-patterns/) - May 1, 2026
-- [[AI Agent] AI Agent Review&lpar;6주차&rpar;](https://aibox.today/ai-agent-design-axes-review/) - May 1, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
