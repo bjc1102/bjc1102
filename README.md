@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Security] 사이버보안 AI 벤치마크 정리](https://aibox.today/cybersecurity-ai-benchmarks/) - Aug 11, 2026
 - [[MLOps] Kubernetes GPU 구성요소와 MIG 운영 구조 정리](https://aibox.today/kubernetes-gpu-operator-mig-architecture/) - Aug 7, 2026
 - [[Community] Hugging Face Seoul Meetup &amp; Reference](https://aibox.today/korean-ai-ecosystem-reference-ilya-reading-list/) - Jul 11, 2026
 - [[논문 리뷰] TMax로 이해하는 Terminal-Agent RL과 DPPO](https://aibox.today/tmax-dppo-terminal-agent/) - Jul 6, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[AI Agent] AI Security Preview &lpar;10주차&rpar;](https://aibox.today/ai-system-security-llmops/) - May 28, 2026
 - [[AWS] AWS Summit 2026 Speaker 후기](https://aibox.today/aws-summit-2026-speaker-retrospective/) - May 25, 2026
 - [[AI Agent] Cost Optimization Preview &lpar;9주차&rpar;](https://aibox.today/llm-cost-optimization-ai-agent/) - May 15, 2026
-- [[AI/ML] 어휘와 토크나이저](https://aibox.today/llm-tokenizer-vocabulary/) - May 13, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
