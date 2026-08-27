@@ -17,6 +17,7 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[vLLM] RunPod L40S에서 콜드 스타트 최적화해보기](https://aibox.today/vllm-cold-start-optimization-runpod-l40s/) - Aug 26, 2026
 - [[LLM 추론] Attention 비용과 KV Cache·GQA·MLA 최적화](https://aibox.today/attention-kv-cache-gqa-mla-inference/) - Aug 24, 2026
 - [[Security] 사이버보안 AI 벤치마크 정리](https://aibox.today/cybersecurity-ai-benchmarks/) - Aug 11, 2026
 - [[MLOps] Kubernetes GPU 구성요소와 MIG 운영 구조 정리](https://aibox.today/kubernetes-gpu-operator-mig-architecture/) - Aug 7, 2026
@@ -26,7 +27,6 @@ Solutions Architect | GenAI + Security & Cloud Architecture
 - [[AI Agent] AI Engineering Review &lpar;12주차&rpar;](https://aibox.today/ai-agent-12-week-final-review/) - Jun 20, 2026
 - [[AI Agent] LLM Training Preview &lpar;11주차&rpar;](https://aibox.today/ai-agent-llm-fine-tuning-preview/) - Jun 5, 2026
 - [[AI Agent] AI Security Preview &lpar;10주차&rpar;](https://aibox.today/ai-system-security-llmops/) - May 28, 2026
-- [[AWS] AWS Summit 2026 Speaker 후기](https://aibox.today/aws-summit-2026-speaker-retrospective/) - May 25, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
