@@ -17,6 +17,7 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Malware] 악성코드 분석 입문: 목적과 분석 기법, 국가별 APT 사례](https://aibox.today/malware-analysis-fundamentals-and-apt-cases/) - Sep 5, 2026
 - [[LLM] Hugging Face 모델 배포 전 확인 항목](https://aibox.today/llm-model-deployment-checklist/) - Sep 2, 2026
 - [[vLLM] RunPod L40S에서 콜드 스타트 최적화해보기](https://aibox.today/vllm-cold-start-optimization-runpod-l40s/) - Aug 26, 2026
 - [[LLM 추론] Attention 비용과 KV Cache·GQA·MLA 최적화](https://aibox.today/attention-kv-cache-gqa-mla-inference/) - Aug 24, 2026
@@ -26,7 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[논문 리뷰] TMax로 이해하는 Terminal-Agent RL과 DPPO](https://aibox.today/tmax-dppo-terminal-agent/) - Jul 6, 2026
 - [[논문 리뷰] Mid-training 이해하기](https://aibox.today/mid-training-terminal-model/) - Jul 2, 2026
 - [[AI Agent] AI Engineering Review &lpar;12주차&rpar;](https://aibox.today/ai-agent-12-week-final-review/) - Jun 20, 2026
-- [[AI Agent] LLM Training Preview &lpar;11주차&rpar;](https://aibox.today/ai-agent-llm-fine-tuning-preview/) - Jun 5, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
