@@ -17,8 +17,9 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Malware] 악성코드 기본 정적 분석: 해시, 문자열, PE 구조와 Imports](https://aibox.today/malware-basic-static-analysis-hash-strings-pe-imports/) - Sep 13, 2026
 - [[DFIR] 디지털 증거의 이해: 동일성, 무결성, 연계보관성과 해시](https://aibox.today/digital-evidence-integrity-chain-of-custody-and-hash/) - Sep 12, 2026
-- [[DFIR] 디지털 포렌식 실습을 위해 준비한 도구 9종](https://aibox.today/digital-forensics-lab-tools/) - Sep 12, 2026
+- [[DFIR] 실습을 위한 도구 9종](https://aibox.today/digital-forensics-lab-tools/) - Sep 12, 2026
 - [[DFIR] 디지털 포렌식 입문: 증거와 절차, 침해사고 대응](https://aibox.today/digital-forensics-evidence-process-and-incident-response/) - Sep 7, 2026
 - [[Malware] 악성코드 분석 입문: 목적과 분석 기법, 국가별 APT 사례](https://aibox.today/malware-analysis-fundamentals-and-apt-cases/) - Sep 5, 2026
 - [[LLM] Hugging Face 모델 배포 전 확인 항목](https://aibox.today/llm-model-deployment-checklist/) - Sep 2, 2026
@@ -26,7 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[LLM 추론] Attention 비용과 KV Cache·GQA·MLA 최적화](https://aibox.today/attention-kv-cache-gqa-mla-inference/) - Aug 24, 2026
 - [[Security] 사이버보안 AI 벤치마크 정리](https://aibox.today/cybersecurity-ai-benchmarks/) - Aug 11, 2026
 - [[MLOps] Kubernetes GPU 구성요소와 MIG 운영 구조 정리](https://aibox.today/kubernetes-gpu-operator-mig-architecture/) - Aug 7, 2026
-- [[Community] Hugging Face Seoul Meetup &amp; Reference](https://aibox.today/korean-ai-ecosystem-reference-ilya-reading-list/) - Jul 11, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
