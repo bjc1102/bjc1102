@@ -17,6 +17,7 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[LLM] 양자화 기초: 가중치 저장과 W4A16 계산 과정](https://aibox.today/llm-quantization-basics-w4a16/) - Sep 21, 2026
 - [[Malware] 악성코드 기본 동적 분석: Sandbox에서 프로세스·파일·Registry·네트워크 확인하기](https://aibox.today/malware-basic-dynamic-analysis-sandbox-process-behaviour/) - Sep 20, 2026
 - [[Malware] Joe Sandbox 분석: 스크립트 생성과 지속성 흔적](https://aibox.today/malware-joe-sandbox-script-persistence-analysis/) - Sep 20, 2026
 - [[DFIR] 압수수색 대응: 영장 범위, 반출 판단과 참여권](https://aibox.today/digital-forensics-search-seizure-warrant-participation/) - Sep 20, 2026
@@ -26,7 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[DFIR] 디지털 포렌식 입문: 증거와 절차, 침해사고 대응](https://aibox.today/digital-forensics-evidence-process-and-incident-response/) - Sep 7, 2026
 - [[Malware] 악성코드 분석 입문: 목적과 분석 기법, 국가별 APT 사례](https://aibox.today/malware-analysis-fundamentals-and-apt-cases/) - Sep 5, 2026
 - [[LLM] Hugging Face 모델 배포 전 확인 항목](https://aibox.today/llm-model-deployment-checklist/) - Sep 2, 2026
-- [[vLLM] RunPod L40S에서 콜드 스타트 최적화해보기](https://aibox.today/vllm-cold-start-optimization-runpod-l40s/) - Aug 26, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
