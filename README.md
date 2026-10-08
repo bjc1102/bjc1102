@@ -17,7 +17,7 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [GPU 한 장으로 대형 모델 구동하기: Strata 소개와 A100 구축 기록](https://aibox.today/strata-a100-80gb-setup/) - Oct 8, 2026
+- [[Strata] A100 80GB 한 장으로 대형 MoE 모델 구동하기](https://aibox.today/strata-a100-80gb-setup/) - Oct 8, 2026
 - [[LLMOps] LLM Gateway가 필요한 이유와 도입 기준](https://aibox.today/llm-gateway-overview-and-testing/) - Oct 6, 2026
 - [[MLOps] GPU 모니터링 지표와 SM 활동률](https://aibox.today/gpu-monitoring-metrics-sm-activity/) - Sep 29, 2026
 - [[AI] Jev: 문장 대신 판단과 확률을 반환하는 모델](https://aibox.today/jev-system-one-decisions-probabilities/) - Sep 21, 2026
