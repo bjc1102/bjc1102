@@ -17,6 +17,7 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GPU 한 장으로 대형 모델 구동하기: Strata 소개와 A100 구축 기록](https://aibox.today/strata-a100-80gb-setup/) - Oct 8, 2026
 - [[LLMOps] LLM Gateway가 필요한 이유와 도입 기준](https://aibox.today/llm-gateway-overview-and-testing/) - Oct 6, 2026
 - [[MLOps] GPU 모니터링 지표와 SM 활동률](https://aibox.today/gpu-monitoring-metrics-sm-activity/) - Sep 29, 2026
 - [[AI] Jev: 문장 대신 판단과 확률을 반환하는 모델](https://aibox.today/jev-system-one-decisions-probabilities/) - Sep 21, 2026
@@ -26,7 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[DFIR] 압수수색 대응: 영장 범위, 반출 판단과 참여권](https://aibox.today/digital-forensics-search-seizure-warrant-participation/) - Sep 20, 2026
 - [[Malware] 악성코드 기본 정적 분석: 해시, 문자열, PE 구조와 Imports](https://aibox.today/malware-basic-static-analysis-hash-strings-pe-imports/) - Sep 13, 2026
 - [[DFIR] 디지털 증거의 이해: 동일성, 무결성, 연계보관성과 해시](https://aibox.today/digital-evidence-integrity-chain-of-custody-and-hash/) - Sep 12, 2026
-- [[DFIR] 실습을 위한 도구 9종](https://aibox.today/digital-forensics-lab-tools/) - Sep 12, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
