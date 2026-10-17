@@ -17,6 +17,8 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AI Agent] 2기 OT: 과정 소개와 준비 사항](https://aibox.today/ai-agent-course-2-orientation/) - Oct 17, 2026
+- [[AI Agent] GitHub Fork와 PR 과제 제출 가이드](https://aibox.today/ai-agent-github-fork-pr-guide/) - Oct 17, 2026
 - [[Malware] 어셈블리와 리버스 엔지니어링](https://aibox.today/malware-assembly-reverse-engineering/) - Oct 12, 2026
 - [[Malware] OXLOADER: 실행 조건과 CASTLESTEALER 전달 과정](https://aibox.today/malware-oxloader-control-flow-analysis/) - Oct 12, 2026
 - [[MLOps] 재부팅 후 MIG 모드와 인스턴스 자동 복원하기](https://aibox.today/mig-auto-restore-after-reboot/) - Oct 12, 2026
@@ -25,8 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[MLOps] GPU 모니터링 지표와 SM 활동률](https://aibox.today/gpu-monitoring-metrics-sm-activity/) - Sep 29, 2026
 - [[AI] Jev: 문장 대신 판단과 확률을 반환하는 모델](https://aibox.today/jev-system-one-decisions-probabilities/) - Sep 21, 2026
 - [[LLM] 양자화 기초: 가중치 저장과 W4A16 계산 과정](https://aibox.today/llm-quantization-basics-w4a16/) - Sep 21, 2026
-- [[Malware] 악성코드 기본 동적 분석: Sandbox에서 프로세스·파일·Registry·네트워크 확인하기](https://aibox.today/malware-basic-dynamic-analysis-sandbox-process-behaviour/) - Sep 20, 2026
-- [[Malware] Joe Sandbox 분석: 스크립트 생성과 지속성 흔적](https://aibox.today/malware-joe-sandbox-script-persistence-analysis/) - Sep 20, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
