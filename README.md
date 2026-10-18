@@ -17,6 +17,8 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[DFIR] FTK Imager로 E01 이미지 만들고 검증하기](https://aibox.today/ftk-imager-e01-creation-verification/) - Oct 18, 2026
+- [[Malware] 고급 정적 분석: PE 구조에서 코드의 동작까지](https://aibox.today/malware-advanced-static-analysis-pe-packing-obfuscation/) - Oct 18, 2026
 - [[AI Agent] 2기 OT: 과정 소개와 준비 사항](https://aibox.today/ai-agent-course-2-orientation/) - Oct 17, 2026
 - [[AI Agent] GitHub Fork와 PR 과제 제출 가이드](https://aibox.today/ai-agent-github-fork-pr-guide/) - Oct 17, 2026
 - [[Malware] 어셈블리와 리버스 엔지니어링](https://aibox.today/malware-assembly-reverse-engineering/) - Oct 12, 2026
@@ -25,8 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[Strata] A100 80GB 한 장으로 대형 MoE 모델 구동하기](https://aibox.today/strata-a100-80gb-setup/) - Oct 8, 2026
 - [[LLMOps] LLM Gateway가 필요한 이유와 도입 기준](https://aibox.today/llm-gateway-overview-and-testing/) - Oct 6, 2026
 - [[MLOps] GPU 모니터링 지표와 SM 활동률](https://aibox.today/gpu-monitoring-metrics-sm-activity/) - Sep 29, 2026
-- [[AI] Jev: 문장 대신 판단과 확률을 반환하는 모델](https://aibox.today/jev-system-one-decisions-probabilities/) - Sep 21, 2026
-- [[LLM] 양자화 기초: 가중치 저장과 W4A16 계산 과정](https://aibox.today/llm-quantization-basics-w4a16/) - Sep 21, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
