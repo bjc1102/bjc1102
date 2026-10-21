@@ -17,6 +17,7 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[LLM 추론] CPU 스레드와 NUMA 메모리 접근](https://aibox.today/llm-cpu-threads-numa-memory/) - Oct 21, 2026
 - [[DFIR] Autopsy로 E01 분석하기: 해시·삭제 파일·타임라인](https://aibox.today/autopsy-e01-hash-deleted-files-timeline/) - Oct 21, 2026
 - [[DFIR] FTK Imager로 E01 이미지 만들고 검증하기](https://aibox.today/ftk-imager-e01-creation-verification/) - Oct 18, 2026
 - [[Malware] 고급 정적 분석: PE 구조에서 코드의 동작까지](https://aibox.today/malware-advanced-static-analysis-pe-packing-obfuscation/) - Oct 18, 2026
@@ -26,7 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[Malware] OXLOADER: 실행 조건과 CASTLESTEALER 전달 과정](https://aibox.today/malware-oxloader-control-flow-analysis/) - Oct 12, 2026
 - [[MLOps] 재부팅 후 MIG 모드와 인스턴스 자동 복원하기](https://aibox.today/mig-auto-restore-after-reboot/) - Oct 12, 2026
 - [[Strata] A100 80GB 한 장으로 대형 MoE 모델 구동하기](https://aibox.today/strata-a100-80gb-setup/) - Oct 8, 2026
-- [[LLMOps] LLM Gateway가 필요한 이유와 도입 기준](https://aibox.today/llm-gateway-overview-and-testing/) - Oct 6, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
