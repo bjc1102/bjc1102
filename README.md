@@ -17,6 +17,7 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AI Agent] 2기 2주차: 프롬프트 구성과 모델 최적화](https://aibox.today/ai-agent-course-2-week-2-prompt-design-model-optimization/) - Oct 29, 2026
 - [[LLM] Transformer의 토큰 생성과 구조화 출력](https://aibox.today/transformer-generation-structured-output/) - Oct 28, 2026
 - [[AI Agent] 2기 1주차: LLM 구성과 출력 제어](https://aibox.today/ai-agent-course-2-week-1-llm-components-output-control/) - Oct 24, 2026
 - [[LLM 추론] CPU 스레드와 NUMA 메모리 접근](https://aibox.today/llm-cpu-threads-numa-memory/) - Oct 21, 2026
@@ -26,7 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[AI Agent] 2기 OT: 과정 소개와 준비 사항](https://aibox.today/ai-agent-course-2-orientation/) - Oct 17, 2026
 - [[AI Agent] GitHub Fork와 PR 과제 제출 가이드](https://aibox.today/ai-agent-github-fork-pr-guide/) - Oct 17, 2026
 - [[Malware] 어셈블리와 리버스 엔지니어링](https://aibox.today/malware-assembly-reverse-engineering/) - Oct 12, 2026
-- [[Malware] OXLOADER: 실행 조건과 CASTLESTEALER 전달 과정](https://aibox.today/malware-oxloader-control-flow-analysis/) - Oct 12, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
