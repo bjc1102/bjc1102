@@ -17,6 +17,7 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[논문 리뷰] Latrodectus 이해하기](https://aibox.today/latrodectus-analysis-evidence-and-limits/) - Nov 13, 2026
 - [[AI Agent] 2기 3주차: Basic RAG와 근거 기반 답변](https://aibox.today/ai-agent-course-2-week-3-basic-rag/) - Nov 7, 2026
 - [[AI Agent] 2기 2주차: 프롬프트 구성과 모델 최적화](https://aibox.today/ai-agent-course-2-week-2-prompt-design-model-optimization/) - Oct 29, 2026
 - [[LLM] Transformer의 토큰 생성과 구조화 출력](https://aibox.today/transformer-generation-structured-output/) - Oct 28, 2026
@@ -26,7 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[DFIR] FTK Imager로 E01 이미지 만들고 검증하기](https://aibox.today/ftk-imager-e01-creation-verification/) - Oct 18, 2026
 - [[Malware] 고급 정적 분석: PE 구조에서 코드의 동작까지](https://aibox.today/malware-advanced-static-analysis-pe-packing-obfuscation/) - Oct 18, 2026
 - [[AI Agent] 2기 OT: 과정 소개와 준비 사항](https://aibox.today/ai-agent-course-2-orientation/) - Oct 17, 2026
-- [[AI Agent] GitHub Fork와 PR 과제 제출 가이드](https://aibox.today/ai-agent-github-fork-pr-guide/) - Oct 17, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
