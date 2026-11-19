@@ -17,6 +17,7 @@ AI Engineer | GenAI + Security & Cloud Architecture
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Security] 미국은 왜 해외 데이터센터의 GPU 이용자까지 살피나](https://aibox.today/bis-remote-compute-and-artex/) - Nov 19, 2026
 - [[AI Agent] 2기 5주차: Advanced RAG의 개선 효과 해석하기](https://aibox.today/ai-agent-course-2-week-5-advanced-rag/) - Nov 18, 2026
 - [[AI Agent] 2기 4주차: LLM 평가 방법과 RAG 지표 이해하기](https://aibox.today/ai-agent-course-2-week-4-rag-evaluation/) - Nov 14, 2026
 - [[논문 리뷰] Latrodectus 이해하기](https://aibox.today/latrodectus-analysis-evidence-and-limits/) - Nov 13, 2026
@@ -26,7 +27,6 @@ AI Engineer | GenAI + Security & Cloud Architecture
 - [[AI Agent] 2기 1주차: LLM 구성과 출력 제어](https://aibox.today/ai-agent-course-2-week-1-llm-components-output-control/) - Oct 24, 2026
 - [[LLM 추론] CPU 스레드와 NUMA 메모리 접근](https://aibox.today/llm-cpu-threads-numa-memory/) - Oct 21, 2026
 - [[DFIR] Autopsy로 E01 분석하기: 해시·삭제 파일·타임라인](https://aibox.today/autopsy-e01-hash-deleted-files-timeline/) - Oct 21, 2026
-- [[DFIR] FTK Imager로 E01 이미지 만들고 검증하기](https://aibox.today/ftk-imager-e01-creation-verification/) - Oct 18, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
